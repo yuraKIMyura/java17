@@ -1,0 +1,36 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Build and target directories
+target/
+out/
+
+# Eclipse
+.settings/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+*.iml
+
+# Temporary files
+*.swp
+*~
+
+# User-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store
